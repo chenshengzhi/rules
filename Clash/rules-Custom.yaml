@@ -1,0 +1,8 @@
+# classical
+payload:
+ - DOMAIN-SUFFIX,ruanyifeng.com
+ - DOMAIN-SUFFIX,azureedge.net
+ - DOMAIN-SUFFIX,gradle.org
+ - DOMAIN-SUFFIX,gradle.com
+ - DOMAIN-SUFFIX,gradle-dn.com
+ - DOMAIN-SUFFIX,smartmailcloud.com

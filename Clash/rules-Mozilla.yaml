@@ -1,0 +1,4 @@
+# classical
+payload:
+ - DOMAIN-SUFFIX,mozilla.com,Mozilla
+ - DOMAIN-SUFFIX,firefox.com,Mozilla
