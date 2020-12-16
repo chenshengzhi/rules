@@ -2,3 +2,4 @@
 payload:
  - DOMAIN-SUFFIX,mozilla.com,Mozilla
  - DOMAIN-SUFFIX,firefox.com,Mozilla
+ - DOMAIN-SUFFIX,firefox.net,Mozilla
