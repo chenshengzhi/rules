@@ -271,7 +271,6 @@ payload:
  - DOMAIN-KEYWORD,dropbox
  - DOMAIN-KEYWORD,facebook
  - DOMAIN-KEYWORD,fbcdn
- - DOMAIN-KEYWORD,github
  - DOMAIN-KEYWORD,gmail
  - DOMAIN-KEYWORD,google
  - DOMAIN-KEYWORD,instagram
@@ -2063,10 +2062,6 @@ payload:
  - DOMAIN-SUFFIX,girlbanker.com
  - DOMAIN-SUFFIX,git.io
  - DOMAIN-SUFFIX,gitbooks.io
- - DOMAIN-SUFFIX,github.com
- - DOMAIN-SUFFIX,github.io
- - DOMAIN-SUFFIX,githubassets.com
- - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,gizlen.net
  - DOMAIN-SUFFIX,gjczz.com
  - DOMAIN-SUFFIX,glass8.eu
@@ -4128,7 +4123,6 @@ payload:
  - DOMAIN-SUFFIX,raremovie.cc
  - DOMAIN-SUFFIX,raremovie.net
  - DOMAIN-SUFFIX,rawgit.com
- - DOMAIN-SUFFIX,rawgithub.com
  - DOMAIN-SUFFIX,raxcdn.com
  - DOMAIN-SUFFIX,razyboard.com
  - DOMAIN-SUFFIX,rcinet.ca
@@ -5833,11 +5827,6 @@ payload:
  - DOMAIN-SUFFIX,fb.me
  - DOMAIN-SUFFIX,fbcdn.com
  - DOMAIN-SUFFIX,fbcdn.net
- - DOMAIN-SUFFIX,github.com
- - DOMAIN-SUFFIX,github.io
- - DOMAIN-SUFFIX,githubapp.com
- - DOMAIN-SUFFIX,githubassets.com
- - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,1e100.net
  - DOMAIN-SUFFIX,2mdn.net
  - DOMAIN-SUFFIX,app-measurement.net
