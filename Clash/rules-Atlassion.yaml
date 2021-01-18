@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,zephyr4jiracloud.com
   - DOMAIN-SUFFIX,atl-paas.net
+  - DOMAIN-SUFFIX,atlassian.com
