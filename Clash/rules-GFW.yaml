@@ -23,6 +23,7 @@ payload:
  - DOMAIN,np-edge.itunes.apple.com
  - DOMAIN,play-edge.itunes.apple.com
  - DOMAIN-SUFFIX,tv.apple.com
+ - DOMAIN,idmsa.apple.com
  - DOMAIN-KEYWORD,bbcfmt
  - DOMAIN-KEYWORD,uk-live
  - DOMAIN,aod-dash-uk-live.akamaized.net
