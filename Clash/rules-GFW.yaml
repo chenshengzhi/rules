@@ -1,6 +1,5 @@
 # classical
 payload:
- - DOMAIN,forms.gle
  - DOMAIN-SUFFIX,lookup-api.apple.com
  - DOMAIN-SUFFIX,uidev.tools
  - DOMAIN-SUFFIX,edgedatg.com
