@@ -1,5 +1,6 @@
 # classical
 payload:
+ - DOMAIN-SUFFIX,bing.com
  - DOMAIN-SUFFIX,acl4ssr
  - DOMAIN-SUFFIX,ip6-localhost
  - DOMAIN-SUFFIX,ip6-loopback
