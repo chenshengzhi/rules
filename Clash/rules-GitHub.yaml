@@ -8,3 +8,4 @@ payload:
  - DOMAIN-SUFFIX,githubusercontent.com
  - DOMAIN-SUFFIX,rawgithub.com
  - DOMAIN-SUFFIX,githubuniverse.com
+ - DOMAIN,git.uidev.tools
