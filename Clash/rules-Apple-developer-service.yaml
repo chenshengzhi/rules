@@ -5,3 +5,4 @@ payload:
   - DOMAIN,developerservices3.apple.com
   - DOMAIN,contentdelivery.itunes.apple.com
   - DOMAIN,contentdelivery01.itunes.apple.com
+  - DOMAIN-SUFFIX,blobstore.apple.com
