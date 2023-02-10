@@ -2,3 +2,5 @@
 payload:
  - DOMAIN-SUFFIX,slack.com
  - DOMAIN-SUFFIX,slack-edge.com
+ - DOMAIN-SUFFIX,slack-imgs.com
+ - DOMAIN-SUFFIX,slackb.com
